@@ -96,6 +96,17 @@
 ---
 ## Computer Vision
 
+ **Semi-Supervised Change Detection:** Multiclass change detection between between two very high resolution sentinel images
+[Gitlab](https://gitlab.com/nikhilsinghisthe/semi-supervised-change-detection.) [More Information]((http://www.classic.grss-ieee.org/earthvision2021/challenge.html))
+
+
+**Face Detection in the Dark:** A Face Detection model Using TinaFace, EnlightenGAN and Multi-Stage Progressive Image Restoration
+[Github](https://github.com/nikhilbyte/Face-Datection-in-the-dark)
+
+
+**Covid Severity Estimation:** A CNN based Image Regression model for finding the severity of lung infection(percent) in a patient infected with the coronavirus.[Github](https://github.com/nikhilbyte/Covid_Severity_Estimation)
+
+
 [![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
 
 <div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
