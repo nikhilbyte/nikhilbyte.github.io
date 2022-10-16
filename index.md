@@ -24,10 +24,15 @@
 ---
 ### Other NLP Projects
 
+**WNUT-2020 Task 2: Identification of informative COVID-19 English Tweets :** This paper describes the team loner’s system submitted to WNUT-2020 Task 2: Identification of informative COVID-19 English Tweets. The proposed system is based on the pre-trained transformer based model, namely BERT. A comparative analysis of various traditional machine learning algorithms is done on the provided dataset. We further improve our performance by using COVID-Twitter Bert (CT-BERT) which is pre-trained on a large corpus of Twitter messages on the topic of COVID-19 and fine-tuned it on our dataset. This method landed us at the 5th position on the leaderboard of this challenge.([Unpublished Paper](https://drive.google.com/file/d/1i5POM0hUuVTvePfeoYik5ftmb9s-hbRq/view?usp=sharing)).
 
 **Automatic Evidence Grading System” (2021 ALTA Shared Task) :** Built an automatic evidence grading system for evidence-based medicine. Evidence-based medicine is a medical practice which requires practitioners to search medical literature for evidence when making clinical decisions. The practitioners are also required to grade the quality of extracted evidence on some chosen scale. The goal of the grading system is to automatically determine the grade of an evidence given the article abstract(s) from which the evidence is extracted.([Github](https://github.com/nikhilbyte/Automatic-evidence-grading-system-for-evidence-based-medicine)).
 
-<center><img src="images/BERT-classification.png"/></center>
+**Detecting Signs of Depression from Social Media Text-LT-EDI@ACL 2022 :** Given social media postings in English, my system should classifies the signs of depression into three labels namely “not depressed”, “moderately depressed”, and “severely depressed”.
+([Github](https://github.com/nikhilbyte/Signs-of-depression-from-social-media)).
+
+**Homophobia/Transphobia Detection in social media comments:-ACL 2022:** Given a comments, my system predicst whether or not it contains any form of homophobia/transphobia.([Github](https://github.com/nikhilbyte/Homophobia-Transphobia-Detection-in-social-media-comments)).
+
 
 ---
 ### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
