@@ -26,6 +26,8 @@
 
 **WNUT-2020 Task 2: Identification of informative COVID-19 English Tweets :** This paper describes the team loner’s system submitted to WNUT-2020 Task 2: Identification of informative COVID-19 English Tweets. The proposed system is based on the pre-trained transformer based model, namely BERT. A comparative analysis of various traditional machine learning algorithms is done on the provided dataset. We further improve our performance by using COVID-Twitter Bert (CT-BERT) which is pre-trained on a large corpus of Twitter messages on the topic of COVID-19 and fine-tuned it on our dataset. This method landed us at the 5th position on the leaderboard of this challenge.([Unpublished Paper](https://drive.google.com/file/d/1i5POM0hUuVTvePfeoYik5ftmb9s-hbRq/view?usp=sharing)).
 
+**Fake News Detection :** Fine-Tuned Siamese Dual BERT using a Spanish Language model called BETO for building a Fake News classification model in Spanish Corpus.([Github](https://github.com/nikhilbyte/FakeNewsDetection)).
+
 **Automatic Evidence Grading System” (2021 ALTA Shared Task) :** Built an automatic evidence grading system for evidence-based medicine. Evidence-based medicine is a medical practice which requires practitioners to search medical literature for evidence when making clinical decisions. The practitioners are also required to grade the quality of extracted evidence on some chosen scale. The goal of the grading system is to automatically determine the grade of an evidence given the article abstract(s) from which the evidence is extracted.([Github](https://github.com/nikhilbyte/Automatic-evidence-grading-system-for-evidence-based-medicine)).
 
 **Detecting Signs of Depression from Social Media Text-LT-EDI@ACL 2022 :** Given social media postings in English, my system should classifies the signs of depression into three labels namely “not depressed”, “moderately depressed”, and “severely depressed”.
@@ -52,39 +54,47 @@
 <br>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### Automatic Enzyme Sequence Annotation
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
-
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
+<div style="text-align: justify">All enzymes are made up of chains of amino acids, which determine their structure and behavior. The proposed model helps in automatically annotating the enzyme sequence with just the enzyme sequence.</div>
+([Presentation & Project](https://devpost.com/software/automatic-enzyme-sequence-annotation?ref_content=user-portfolio&ref_feature=in_progress)) [I also won the special prize at AI4Science Hosted by Caltech at Devpost.](https://ai4science.io/winners.html)
 <br>
 <center><img src="images/ames-house-price.jpg"/></center>
 <br>
 
 ---
-### Predict Breast Cancer with RF, PCA and SVM using Python
+### Patient Clinic Proximity Finder
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/predict-breast-cancer-with-rf-pca-svm/blob/master/breast-cancer.ipynb)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nikhilbyte/Patient-Clinic-Proximity-Finder)
 
-<div style="text-align: justify">In this project I am going to perform comprehensive EDA on the breast cancer dataset, then transform the data using Principal Components Analysis (PCA) and use Support Vector Machine (SVM) model to predict whether a patient has breast cancer.</div>
+<div style="text-align: justify">Built a python app that matches a patient to their nearest clinic using Google's Geocoding API.</div>
 <br>
 <center><img src="images/breast-cancer.png"/></center>
 <br>
 
+### Automatic Speech Recognition model for Luganda: An African Language
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nikhilbyte/Mozilla_Luganda_AutomaticSpeechRecognition)
+
+<div style="text-align: justify">Participated in Mozilla Luganda Automatic Speech Recognition Competition and built a machine learning ASR model to accurately recognize words spoken in Luganda.</div>
+[..And landed on 8th position on the leaderboard.](https://zindi.africa/competitions/mozilla-luganda-automatic-speech-recognition)
+<br>
+<center><img src="images/breast-cancer.png"/></center>
+<br>
+
+
 ---
-### Business Analytics Conference 2018: How is NYC's Government Using Money?
+### Diagnosing COVID-19 using Acoustics: DiCOVA Challenge
 
-[![Open Research Poster](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](pdf/bac2018.pdf)
+<div style="text-align: justify">Used Pre-Trained Audio Neural Networks and Audio Spectrogram Transformers to build a machine learning model that can detect COVID-19 be from the cough, breathing and speech sound signals of an individual.</div>
+[Unpublished System Report.](https://drive.google.com/file/d/103JmctaOGJ6c-BuDoVdLvHUCBnkck5YI/view?usp=sharing)
 
-<div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
 <br>
 <center><img src="images/bac2018.JPG"/></center>
 <br>
 
 ---
-## Filmed by me
+## Computer Vision
 
 [![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
 
