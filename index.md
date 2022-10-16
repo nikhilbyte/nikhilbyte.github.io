@@ -49,18 +49,12 @@
 
 <div style="text-align: justify">We propose a multi-criteria route planning technique for cyclists and pedestrians. This aims at objectively determining the routes based on various criteria about the safety of a given route while keeping the user away from potential COVID-19 transmission spots. The vulnerable spots include places such as a hospital or medical facilities, contained residential areas, and roads with high connectivity and influx of people. Our proposed algorithm returns a multi-criteria route modeled by considering safety as well as the shortest route for user ease and a short time of outside environment exposure. So first we visualize containment zones and medical facilities in a region. We will define parameters pertaining to user facilitation in terms of safety, amenity reach, and mobility ease using the walking and cycling modes. This visualization can help authorities facilitate these modes by planning bike and walking lanes. </div> 
 ([WebApp](https://peacetech.epcc.ed.ac.uk/about)) ([Journal Paper](https://www.mdpi.com/2220-9964/10/8/571/htm)) 
-<br>
-<center><img src="images/credit-risk-webapp.png"/></center>
-<br>
 
 ---
 ### Automatic Enzyme Sequence Annotation
 
 <div style="text-align: justify">All enzymes are made up of chains of amino acids, which determine their structure and behavior. The proposed model helps in automatically annotating the enzyme sequence with just the enzyme sequence.</div>
 ([Presentation & Project](https://devpost.com/software/automatic-enzyme-sequence-annotation?ref_content=user-portfolio&ref_feature=in_progress)) [I also won the special prize at AI4Science Hosted by Caltech at Devpost.](https://ai4science.io/winners.html)
-<br>
-<center><img src="images/ames-house-price.jpg"/></center>
-<br>
 
 ---
 ### Patient Clinic Proximity Finder
@@ -68,9 +62,6 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nikhilbyte/Patient-Clinic-Proximity-Finder)
 
 <div style="text-align: justify">Built a python app that matches a patient to their nearest clinic using Google's Geocoding API.</div>
-<br>
-<center><img src="images/breast-cancer.png"/></center>
-<br>
 
 ### Automatic Speech Recognition model for Luganda: An African Language
 
@@ -78,9 +69,6 @@
 
 <div style="text-align: justify">Participated in Mozilla Luganda Automatic Speech Recognition Competition and built a machine learning ASR model to accurately recognize words spoken in Luganda.</div>
 [..And landed on 8th position on the leaderboard.](https://zindi.africa/competitions/mozilla-luganda-automatic-speech-recognition)
-<br>
-<center><img src="images/breast-cancer.png"/></center>
-<br>
 
 
 ---
@@ -88,10 +76,6 @@
 
 <div style="text-align: justify">Used Pre-Trained Audio Neural Networks and Audio Spectrogram Transformers to build a machine learning model that can detect COVID-19 be from the cough, breathing and speech sound signals of an individual.</div>
 [Unpublished System Report.](https://drive.google.com/file/d/103JmctaOGJ6c-BuDoVdLvHUCBnkck5YI/view?usp=sharing)
-
-<br>
-<center><img src="images/bac2018.JPG"/></center>
-<br>
 
 ---
 ## Computer Vision
