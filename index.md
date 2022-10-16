@@ -97,15 +97,24 @@
 ## Computer Vision
 
  **Semi-Supervised Change Detection:** Multiclass change detection between between two very high resolution sentinel images
-[Gitlab](https://gitlab.com/nikhilsinghisthe/semi-supervised-change-detection.) [More Information]((http://www.classic.grss-ieee.org/earthvision2021/challenge.html))
+([Gitlab](https://gitlab.com/nikhilsinghisthe/semi-supervised-change-detection.)) ([More Information](http://www.classic.grss-ieee.org/earthvision2021/challenge.html))
 
 
 **Face Detection in the Dark:** A Face Detection model Using TinaFace, EnlightenGAN and Multi-Stage Progressive Image Restoration
-[Github](https://github.com/nikhilbyte/Face-Datection-in-the-dark)
+([Github](https://github.com/nikhilbyte/Face-Datection-in-the-dark))
 
 
-**Covid Severity Estimation:** A CNN based Image Regression model for finding the severity of lung infection(percent) in a patient infected with the coronavirus.[Github](https://github.com/nikhilbyte/Covid_Severity_Estimation)
+**Covid Severity Estimation:** A CNN based Image Regression model for finding the severity of lung infection(percent) in a patient infected with the coronavirus.([Github](https://github.com/nikhilbyte/Covid_Severity_Estimation))
 
+**An End-to-End Computer Vision(CV) Problem:** In this project I demonstrate, how to deal with a CV problem from stract, through creating the data to creating a strong model by building a Shoe Type classifier.([Github](https://github.com/nikhilbyte/ShoeTypeClassifier))
+---
+## Indigenous ML Problems
+
+**Multimodal Sentiment Analysis:** Examining the performance of various SOTA vision and text models on multiple modalities.
+([Github](https://github.com/nikhilbyte/Multimodal-Sentiment-Analysis))
+
+**To be or not to be ? Mortality Prediction:** Used Catboost with Optuna to predict the survival of a patient given his or her medical record. More specifically, predicted whether or not the patients died during their stay at the hospital.
+([Github](https://github.com/nikhilbyte/Mortality-Prediction))
 
 [![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
 
