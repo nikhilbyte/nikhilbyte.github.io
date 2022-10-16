@@ -35,37 +35,18 @@
 
 
 ---
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
-
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
-<br>
-<center><img src="images/fb-food-trends.png"></center>
-<br>
 
 ---
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
-
-<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
-<br>
-<center><img src="images/detect-spam-nlp.png"/></center>
-<br>
 
 ---
 ## Data Science
 
-### Credit Risk Prediction Web App
+### Increasing safety and sustainability of micro-mobility modes in pandemic
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
-
-<div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
+<div style="text-align: justify">We propose a multi-criteria route planning technique for cyclists and pedestrians. This aims at objectively determining the routes based on various criteria about the safety of a given route while keeping the user away from potential COVID-19 transmission spots. The vulnerable spots include places such as a hospital or medical facilities, contained residential areas, and roads with high connectivity and influx of people. Our proposed algorithm returns a multi-criteria route modeled by considering safety as well as the shortest route for user ease and a short time of outside environment exposure. So first we visualize containment zones and medical facilities in a region. We will define parameters pertaining to user facilitation in terms of safety, amenity reach, and mobility ease using the walking and cycling modes. This visualization can help authorities facilitate these modes by planning bike and walking lanes. </div> 
+([WebApp](https://peacetech.epcc.ed.ac.uk/about)) ([Journal Paper](https://www.mdpi.com/2220-9964/10/8/571/htm)) 
 <br>
 <center><img src="images/credit-risk-webapp.png"/></center>
 <br>
