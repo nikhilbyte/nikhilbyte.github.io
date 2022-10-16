@@ -107,7 +107,7 @@
 **Covid Severity Estimation:** A CNN based Image Regression model for finding the severity of lung infection(percent) in a patient infected with the coronavirus.([Github](https://github.com/nikhilbyte/Covid_Severity_Estimation))
 
 **An End-to-End Computer Vision(CV) Problem:** In this project I demonstrate, how to deal with a CV problem from stract, through creating the data to creating a strong model by building a Shoe Type classifier.([Github](https://github.com/nikhilbyte/ShoeTypeClassifier))
----
+
 ## Indigenous ML Problems
 
 **Multimodal Sentiment Analysis:** Examining the performance of various SOTA vision and text models on multiple modalities.
