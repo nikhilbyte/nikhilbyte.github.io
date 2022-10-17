@@ -30,10 +30,10 @@
 
 **Automatic Evidence Grading System” (2021 ALTA Shared Task) :** Built an automatic evidence grading system for evidence-based medicine. Evidence-based medicine is a medical practice which requires practitioners to search medical literature for evidence when making clinical decisions. The practitioners are also required to grade the quality of extracted evidence on some chosen scale. The goal of the grading system is to automatically determine the grade of an evidence given the article abstract(s) from which the evidence is extracted.([Github](https://github.com/nikhilbyte/Automatic-evidence-grading-system-for-evidence-based-medicine)).
 
-**Detecting Signs of Depression from Social Media Text-LT-EDI@ACL 2022 :** Given social media postings in English, my system should classifies the signs of depression into three labels namely “not depressed”, “moderately depressed”, and “severely depressed”.
+**Detecting Signs of Depression from Social Media Text-LT-EDI@ACL 2022 :** Given social media postings in English, my system  classifies the signs of depression into three labels namely “not depressed”, “moderately depressed”, and “severely depressed”.
 ([Github](https://github.com/nikhilbyte/Signs-of-depression-from-social-media)).
 
-**Homophobia/Transphobia Detection in social media comments:-ACL 2022:** Given a comments, my system predicst whether or not it contains any form of homophobia/transphobia.([Github](https://github.com/nikhilbyte/Homophobia-Transphobia-Detection-in-social-media-comments)).
+**Homophobia/Transphobia Detection in social media comments:-ACL 2022:** Given a comment, my system predicts whether or not it contains any form of homophobia/transphobia.([Github](https://github.com/nikhilbyte/Homophobia-Transphobia-Detection-in-social-media-comments)).
 
 
 ---
@@ -62,6 +62,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nikhilbyte/Patient-Clinic-Proximity-Finder)
 
 <div style="text-align: justify">Built a python app that matches a patient to their nearest clinic using Google's Geocoding API.</div>
+---
 
 ### Automatic Speech Recognition model for Luganda: An African Language
 
@@ -74,7 +75,7 @@
 ---
 ### Diagnosing COVID-19 using Acoustics: DiCOVA Challenge
 
-<div style="text-align: justify">Used Pre-Trained Audio Neural Networks and Audio Spectrogram Transformers to build a machine learning model that can detect COVID-19 be from the cough, breathing and speech sound signals of an individual.</div>
+<div style="text-align: justify">Used Pre-Trained Audio Neural Networks and Audio Spectrogram Transformers to build a machine learning model that can detect COVID-19 from the cough, breathing and speech sound signals of an individual.</div>
 [Unpublished System Report.](https://drive.google.com/file/d/103JmctaOGJ6c-BuDoVdLvHUCBnkck5YI/view?usp=sharing)
 
 ---
@@ -102,9 +103,11 @@
 
 ## Ream my articles
 
-[How to classify deep space radio signals using deep learning](https://medium.com/@nikhil3198/how-to-classify-deep-space-radio-signals-using-deep-learning-4e2845326987)\
+[How to classify deep space radio signals using deep learning](https://medium.com/@nikhil3198/how-to-classify-deep-space-radio-signals-using-deep-learning-4e2845326987)
 
-[Quantifying Member Engagement of any online Community](https://docs.google.com/document/d/1iVFk0KPZOgpwne9R9wV1SeqYNx0aqBZewno8w5JFL4s/edit?usp=sharing)\
+[Quantifying Member Engagement of any online Community](https://docs.google.com/document/d/1iVFk0KPZOgpwne9R9wV1SeqYNx0aqBZewno8w5JFL4s/edit?usp=sharing)
+
+
 [A simple explanation of how you can perform extractive summarization of any article using pre-trained BERT](https://docs.google.com/document/d/1wwHe4tJYPGxJR1ZEK6OqevE4sVkU-dU37KKXx2hJ8Zk/edit?usp=sharing)\
 
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
