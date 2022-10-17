@@ -100,5 +100,10 @@
 **To be or not to be ? Mortality Prediction:** Used Catboost with Optuna to predict the survival of a patient given his or her medical record. More specifically, predicted whether or not the patients died during their stay at the hospital.
 ([Github](https://github.com/nikhilbyte/Mortality-Prediction))
 
+## Ream my articles
+
+[How to classify deep space radio signals using deep learning](https://medium.com/@nikhil3198/how-to-classify-deep-space-radio-signals-using-deep-learning-4e2845326987)
+[Quantifying Member Engagement of any online Community](https://docs.google.com/document/d/1iVFk0KPZOgpwne9R9wV1SeqYNx0aqBZewno8w5JFL4s/edit?usp=sharing)
+[A simple explanation of how you can perform extractive summarization of any article using pre-trained BERT](https://docs.google.com/document/d/1wwHe4tJYPGxJR1ZEK6OqevE4sVkU-dU37KKXx2hJ8Zk/edit?usp=sharing)
 
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
