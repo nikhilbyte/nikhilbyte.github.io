@@ -102,8 +102,9 @@
 
 ## Ream my articles
 
-[How to classify deep space radio signals using deep learning](https://medium.com/@nikhil3198/how-to-classify-deep-space-radio-signals-using-deep-learning-4e2845326987)
-[Quantifying Member Engagement of any online Community](https://docs.google.com/document/d/1iVFk0KPZOgpwne9R9wV1SeqYNx0aqBZewno8w5JFL4s/edit?usp=sharing)
-[A simple explanation of how you can perform extractive summarization of any article using pre-trained BERT](https://docs.google.com/document/d/1wwHe4tJYPGxJR1ZEK6OqevE4sVkU-dU37KKXx2hJ8Zk/edit?usp=sharing)
+[How to classify deep space radio signals using deep learning](https://medium.com/@nikhil3198/how-to-classify-deep-space-radio-signals-using-deep-learning-4e2845326987)\
+
+[Quantifying Member Engagement of any online Community](https://docs.google.com/document/d/1iVFk0KPZOgpwne9R9wV1SeqYNx0aqBZewno8w5JFL4s/edit?usp=sharing)\
+[A simple explanation of how you can perform extractive summarization of any article using pre-trained BERT](https://docs.google.com/document/d/1wwHe4tJYPGxJR1ZEK6OqevE4sVkU-dU37KKXx2hJ8Zk/edit?usp=sharing)\
 
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
