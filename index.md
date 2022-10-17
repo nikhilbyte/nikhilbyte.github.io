@@ -110,4 +110,4 @@
 
 [A simple explanation of how you can perform extractive summarization of any article using pre-trained BERT](https://docs.google.com/document/d/1wwHe4tJYPGxJR1ZEK6OqevE4sVkU-dU37KKXx2hJ8Zk/edit?usp=sharing)\
 
-<center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2022 Nikhil Singh</center>
