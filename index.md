@@ -62,6 +62,8 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/nikhilbyte/Patient-Clinic-Proximity-Finder)
 
 <div style="text-align: justify">Built a python app that matches a patient to their nearest clinic using Google's Geocoding API.</div>
+
+
 ---
 
 ### Automatic Speech Recognition model for Luganda: An African Language
